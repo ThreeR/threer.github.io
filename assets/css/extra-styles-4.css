@@ -16,3 +16,7 @@
 .sidebar-wrapper .tagline {
     font-size: 13px;
 }
+
+.details p a {
+    text-decoration: underline;
+}
